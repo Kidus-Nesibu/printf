@@ -1,5 +1,5 @@
 #include "main.h"
-/*proto type*/
+
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
